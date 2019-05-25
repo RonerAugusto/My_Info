@@ -7,7 +7,8 @@
 
 
 ```markdown
-![imagem curriculu] (https://github.com/RonerAugusto/Roner-Page/blob/master/curriculum_roner-1.png)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 ```
