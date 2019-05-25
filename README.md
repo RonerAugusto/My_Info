@@ -7,7 +7,7 @@
 
 
 ```markdown
-Syntax highlighted code block
+![imagem curriculu] (https://github.com/RonerAugusto/Roner-Page/blob/master/curriculum_roner-1.png)
 
 
 ```
