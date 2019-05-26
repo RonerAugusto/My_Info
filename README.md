@@ -13,7 +13,8 @@ Format: ![Alt Text](url)
 apaixonado por sistemas de controle, internet das coisas, Linux e  microcontrolador
 
 
-“O próximo grande salto evolutivo da humanidade será a descoberta de que cooperar é melhor que competir.” (Pietro Ubaldi)
+“O próximo grande salto evolutivo da humanidade 
+será a descoberta de que cooperar é melhor que competir.” (Pietro Ubaldi)
 
 
 
