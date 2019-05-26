@@ -10,7 +10,10 @@ Format: ![Alt Text](url)
 
 
 ```markdown
+apaixonado por sistemas de controle, internet das coisas, Linux e  microcontrolador
 
+
+“O próximo grande salto evolutivo da humanidade será a descoberta de que cooperar é melhor que competir.” (Pietro Ubaldi)
 
 
 
